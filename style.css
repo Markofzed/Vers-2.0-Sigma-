@@ -1,0 +1,26 @@
+h1{
+	font-size:20px;
+	text-align:center;
+	padding:10px;
+	width:800px;
+	margin: 0 auto;
+}
+li{
+	font-size:20px;
+}
+}
+h2{
+	padding:20px;
+	margin: 0 auto;
+}
+p:hover{background-color:green;
+	width:290px;}
+
+p{
+	font-size: 40px
+}
+body{
+	background-image:url(blueblue.jpg);
+	background-attachment: fixed;
+	margin: 40px;
+}
